@@ -113,7 +113,7 @@
 </head>
 <body>
     <header>
-        <img src="logo.png" alt="Logo">
+        <img src="logo.png.webl" alt="Logo">
         <h1>Важность образования в Казахстане</h1>
     </header>
 
